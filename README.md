@@ -28,9 +28,13 @@ Usage
 -----
 
 To run the code on Colab, You shoulf first create a new notebook. 
-Clone Mask R-CNN and install it. 
+
+Clone Mask R-CNN and install it.
+
 Add following classes
+
 GarbageConfig : This class contains the default configurations. Modify the attributes for your training.
+
 GarbageDataset : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
 
 example:
