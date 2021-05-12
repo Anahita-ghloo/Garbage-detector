@@ -56,7 +56,9 @@ To run the code on Colab, You shoulf first,
  
 * Create and Train the Mask R-CNN model.
 
-The next part includes codes for accessing local webcam within Google Colab running object detection on webcam video.
+The next part includes codes for [accessing local webcam within Google Colab running object detection on webcam video].
+
+[accessing local webcam within Google Colab running object detection on webcam video]: https://github.com/theAIGuysCode/colab-webcam
 
 example:
 ```sh
