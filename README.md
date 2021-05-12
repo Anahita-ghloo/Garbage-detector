@@ -1,6 +1,7 @@
 # Garbage-detector with Mask R-CNN
-A training project for detecting paper cup and shoe.
+A training project for detecting paper cup and shoe. More garbage may be added later.
 The codes are based on implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image.
+This project was trained and tested in Google Colab.
 
 
 Table of Contents
@@ -17,17 +18,20 @@ Requirements
 
 The script requires the following to run:
 
-  * [python][python] 3.7+
-  * dataset_internship
-
+  * Tensorflow version 1.x
+  * Keras version 2.1.5
+  
 
 [python]: https://www.python.org/downloads/
 
 Usage
 -----
 
-First you should install python on your system and download the dataset.
-Then you can run the script with cmd or Anaconda Prompt.
+To run the code on Colab, You shoulf first create a new notebook. 
+Clone Mask R-CNN and install it. 
+Add following classes
+GarbageConfig : This class contains the default configurations. Modify the attributes for your training.
+GarbageDataset : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
 
 example:
 ```sh
