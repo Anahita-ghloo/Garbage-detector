@@ -4,9 +4,13 @@ The codes are based on implementation of Mask R-CNN by (https://github.com/matte
 This project was trained and tested in Google Colab.
 
 For this project I used these greate repositories and links : 
+
  https://github.com/theAIGuysCode/colab-webcam
+ 
  https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation
+ 
  https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
+ 
  https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
 
@@ -41,18 +45,18 @@ To run the code on Colab, You shoulf first,
 
 * Add following classes
 
- `GarbageConfig` : This class contains the default configurations. Modify the attributes for your training.
+   `GarbageConfig` : This class contains the default configurations. Modify the attributes for your training.
 
- `GarbageDataset` : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
+   `GarbageDataset` : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
  
- * Create a Dataset :  In this project I used 100 pictures of paper cup and 100 pictures of shoe annotated by VGG Image Annotation(VIA).I also added a file-attribute
+* Create a Dataset :  In this project I used 100 pictures of paper cup and 100 pictures of shoe annotated by VGG Image Annotation(VIA).I also added a file-attribute
  called class_name, which can be BG(background), shoe or paper cup.
  
- * Download `mask_rcnn_coco.h5` file. Which will be used for transfer learning to train an object detection model on a new dataset.
+* Download `mask_rcnn_coco.h5` file. Which will be used for transfer learning to train an object detection model on a new dataset.
  
- * Create and Train the Mask R-CNN model.
+* Create and Train the Mask R-CNN model.
 
-The next part includes codes for  accessing local webcam within Google Colab running face detection on webcam video.
+The next part includes codes for accessing local webcam within Google Colab running object detection on webcam video.
 
 example:
 ```sh
