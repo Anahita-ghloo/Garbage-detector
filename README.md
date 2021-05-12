@@ -34,7 +34,7 @@ You need to degrade version of Tensorflow and Keras
 Usage
 -----
 
-To run the code on Colab, You shoulf first,
+To run the code on Colab, You should first,
 
 * Create a new notebook. 
 
