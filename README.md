@@ -25,14 +25,11 @@ Table of Contents
 
 Requirements
 ------------
-
-The script requires the following to run:
+You need to degrade version of Tensorflow and Keras
 
   * Tensorflow version 1.x
   * Keras version 2.1.5
   
-
-[python]: https://www.python.org/downloads/
 
 Usage
 -----
