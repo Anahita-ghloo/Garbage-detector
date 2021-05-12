@@ -1,6 +1,6 @@
 # Garbage-detector with Mask R-CNN
 A training project for detecting paper cup and shoe in image and via Webcam. More garbage may be added later.
-The codes are based on implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image.
+The codes are based on implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image and generates bounding boxe for objects detected on Webcam video.
 This project was trained and tested in Google Colab.
 
 For this project I used these greate repositories and links : 
