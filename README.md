@@ -1,6 +1,6 @@
-# Garbage-detector
-My first project of internship with Shenasa.
-Comparing ID of images in two directories and transfer them to same or different directory. The Code is in python.
+# Garbage-detector with Mask R-CNN
+A training project for detecting paper cup and shoe.
+The codes are based on implementation of Mask R-CNN by (https://github.com/matterport/Mask_RCNN) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image.
 
 
 Table of Contents
