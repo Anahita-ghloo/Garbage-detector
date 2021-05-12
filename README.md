@@ -33,9 +33,9 @@ Clone Mask R-CNN and install it.
 
 Add following classes
 
-GarbageConfig : This class contains the default configurations. Modify the attributes for your training.
+'GarbageConfig' : This class contains the default configurations. Modify the attributes for your training.
 
-GarbageDataset : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
+'GarbageDataset' : This class inherits from utils.Dataset which provides capability to train on new dataset without modifying the model.
 
 example:
 ```sh
