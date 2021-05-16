@@ -14,6 +14,8 @@ For this project I used these greate repositories and links :
  https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 Table of Contents
 -----------------
 
