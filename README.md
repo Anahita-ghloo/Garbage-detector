@@ -16,7 +16,7 @@ For this project I used these greate repositories and links :
 
 <br/>
 <br/>
-![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif =300x300))
+![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif =300x300)
 
 <p align="center">
 
