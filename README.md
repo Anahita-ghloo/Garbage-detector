@@ -16,6 +16,16 @@ For this project I used these greate repositories and links :
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif" width="300" height="300">
+</p>
+
+<p align="center">
+Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+</p>
+
 Table of Contents
 -----------------
 
