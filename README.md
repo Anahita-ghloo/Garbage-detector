@@ -15,10 +15,10 @@ For this project I used these greate repositories and links :
 
 
 
-
+![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif)
 
 <p align="center">
-![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif)
+
 Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
 
