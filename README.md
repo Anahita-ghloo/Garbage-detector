@@ -12,7 +12,6 @@ For this project I used these greate repositories and links :
  https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
  
  https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
-#<img src="https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif" width="300" height="300">
 
 ![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif)
 
