@@ -14,8 +14,9 @@ For this project I used these greate repositories and links :
  https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
 
-
-![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif)
+<br/>
+<br/>
+![Alt Text](https://github.com/Anahita-ghloo/Garbage-detector/blob/main/paper%20cup%20demo.gif =300x300))
 
 <p align="center">
 
